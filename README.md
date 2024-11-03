@@ -1,7 +1,7 @@
 
 # Image Search Engine
 
-![Image Search Engine](path_to_your_image.png)
+
 
 ## Overview
 
